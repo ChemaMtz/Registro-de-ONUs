@@ -1,0 +1,17 @@
+{
+  "firestore": {
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "partes-de-trabajo-170cc",
+          "configurations": {
+            "web": "1:613696807292:web:17f521ada771a5f2e8c4f9"
+          }
+        }
+      }
+    }
+  }
+}
